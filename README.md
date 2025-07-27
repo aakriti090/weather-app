@@ -56,3 +56,14 @@ Follow these steps to run the Weather App on your local machine:
 4. **Start the App**
     ```bash
     npm run dev
+
+5. **Test It**
+    Type a city name (e.g. Kathmandu) in the input field.
+    Click Get Weather.
+    You will see:
+    - City & country name
+    - Temperature
+    - Weather description
+    - Weather icon
+
+  - If the city is invalid or empty, an alert will appear.
