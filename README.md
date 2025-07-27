@@ -38,7 +38,7 @@ Follow these steps to run the Weather App on your local machine:
    If you downloaded it from GitHub, navigate to the folder:
 
    ```bash
-   cd weather-app
+   cd react-weather
    
 2. **Install Node Modules**
     Install dependencies by running:
