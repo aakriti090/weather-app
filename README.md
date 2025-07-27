@@ -58,8 +58,11 @@ Follow these steps to run the Weather App on your local machine:
     npm run dev
 
 5. **Test It**
+   
     Type a city name (e.g. Kathmandu) in the input field.
+   
     Click Get Weather.
+   
     You will see:
     - City & country name
     - Temperature
